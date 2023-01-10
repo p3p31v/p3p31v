@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 I’m a physicist with a growing passion about programming</br>
+🌱 I’m a physicist with a growing passion for programming</br>
 👨‍💻  I am passionate about Data Analysis & Data Science. </br>
 
 ### My Experiences 🙌

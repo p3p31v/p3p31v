@@ -45,6 +45,4 @@ Notebook Expert on Kaggle
 
 ![Jose Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p3p31v&layout=compact&langs_count=8&hide_border=true)
 <br />
-
-
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=p3p31v.p3p31v)

@@ -26,11 +26,18 @@ Here are some ideas to get you started:
 <a href="https://youtube.com/@31vp3p">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+<a href="https://www.kaggle.com/jlcordoba">
+  <img align="left" width="26px" src="https://www.kaggle.com/static/images/site-logo.svg" />
+</a> 
 <br />
 
 ### About Me 🚀
-🌱 I’m a physicist with a growing passion for programming</br>
-👨‍💻  I am passionate about Data Analysis & Data Science. </br>
+🌱 Physicist with a growing passion for programming</br>
+👨‍💻  Passionate about Data Analysis & Data Science. </br>
+<a href="https://www.kaggle.com/jlcordoba">
+  <img align="left" width="26px" src="https://www.kaggle.com/static/images/tiers/expert@192.png" />
+</a> Notebook Expert on Kaggle
+
 
 ### My Experiences 🙌
 - [Data Analyst](https://www.csic.es)- (2 years)

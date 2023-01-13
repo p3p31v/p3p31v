@@ -32,10 +32,10 @@ Here are some ideas to get you started:
 <br />
 
 ### About Me 🚀
-🌱 Physicist with a growing passion for programming</br>
+🌱 Physicist with a growing passion for programming.</br>
 👨‍💻  Passionate about Data Analysis & Data Science.</br>
 <a href="https://www.kaggle.com/jlcordoba"><img align="down" width="26px" src="https://www.kaggle.com/static/images/tiers/expert@192.png" /></a>
-Notebook Expert on Kaggle
+Notebook Expert on Kaggle.
 
 
 ### My Experiences 🙌

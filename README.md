@@ -41,6 +41,7 @@ Notebook Expert on Kaggle.
 ### My Experiences 🙌
 - [Data Analyst](https://www.csic.es)- (2 years)
 - [Software Developer](https://cloverbiosoft.com)- (5 months)
+- [Software Tester](https://www.lionbridge.com)- (1 year)
 
 
 ![Jose Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=p3p31v&layout=compact&langs_count=8&hide_border=true)
